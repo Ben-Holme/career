@@ -21,8 +21,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	text-align: center;
-	font-size:72px;
-	line-height:72px;
+	font-size:50px;
+	line-height: 1em;
 }
 
 
@@ -308,6 +308,10 @@ div.fancy-select div.trigger.open:after {
 	right:34px;
 }
 
+div.fancy-select div.trigger.open {
+	border-color: #d9d9d9;
+}
+
 div.fancy-select ul.options {
 	list-style: none;
 	margin: 0;
@@ -319,7 +323,7 @@ div.fancy-select ul.options {
 	opacity: 0;
 	z-index: 50;
 	overflow: auto;
-	border:solid 2px #f2f2f2;
+	border:solid 2px #d9d9d9;
 	background: #fff;
 	width: 100%;
 	transition: opacity 300ms ease-out, top 300ms ease-out, visibility 300ms ease-out;
