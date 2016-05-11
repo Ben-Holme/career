@@ -1217,6 +1217,7 @@ form#upload p {
 		padding-bottom:1rem;
 		display: inline-block;
 		font-size: 14px !important;
+		margin-top: 0;
 	}
 
 	p em {
