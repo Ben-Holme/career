@@ -568,6 +568,7 @@ span.IN-widget {
 }
 
 #cv_step_1 .item50{
+	vertical-align: middle;
 	width:50%;
 	display: inline-block !important;
 	float:none !important;
