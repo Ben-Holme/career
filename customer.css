@@ -487,12 +487,15 @@ p.logo{
 	display: none;
 }
 
-.client_desc em{
-	color: #30302e;
-	font-size: 20px !important;
-	font-weight: 600;
+.client_desc p {
+	font-size: 18px !important;
 	font-style: normal!important;
 	line-height: 1.3em;
+}
+
+.client_desc p em {
+	font-weight: 600;
+	color: #30302e;
 }
 
 .client_desc em{
