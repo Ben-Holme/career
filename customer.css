@@ -463,7 +463,8 @@ div.fancy-select ul.options li:hover {
 	margin: 0px;
 	padding-right:10px;
 	font-weight: bold;
-	font-size:;
+	margin-top: 10px;
+	font-size: 18px;
 }
 
 .job_wrapper .tags-apply strong {
@@ -1199,8 +1200,6 @@ form#upload p {
 		width:100%;
 		padding-bottom:1rem;
 		display: inline-block;
-		margin-top: 10px;
-		font-size: 18px;
 	}
 
 	.job_wrapper .tags-apply:after{
