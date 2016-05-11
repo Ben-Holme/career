@@ -506,7 +506,7 @@ p.logo{
 .job_wrapper .logo {
 	float: left;
 	padding-right: 30px;
-	margin-top: 0px;
+	margin-top: 0;
 }
 
 p.name{
