@@ -6,11 +6,6 @@ p {
 	color:#7f7f7c;
 }
 
-p strong:first-child:last-child {
-	color: #30302e;
-	display: block;
-	margin-top: 40px;
-}
 a {
 	color: #ee4a56;
 }
