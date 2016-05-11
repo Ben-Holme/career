@@ -419,7 +419,7 @@ div.fancy-select ul.options li:hover {
 
 .job_desc p{
 	font-family: inherit!important;
-	font-size: inherit!important;
+	font-size: 18px !important;
 	line-height: 1.85em!important;
 	margin-top: 1em!important;
 	color: #7f7f7c!important;
