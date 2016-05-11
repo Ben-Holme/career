@@ -1223,6 +1223,7 @@ form#upload p {
 	}
 	p, .job_desc p, .client_desc p {
 		font-size: 14px !important;
+		line-height: 1.55em;
 	}
 
 	.job_wrapper .tags-apply:after{
