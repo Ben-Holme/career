@@ -2,11 +2,14 @@
 
 /* GLOBAL VALUES */
 
-p, a {
+p {
 	color:#7f7f7c;
-	font-size:12px;
+}
+a {
+	color: #ee4a56;
 }
 a:hover {
+	color: #FF5A6E;
 	text-decoration: none;
 }
 
@@ -557,7 +560,7 @@ span.IN-widget {
 }
 
 .item100 .FileUpLoadBtn:hover {
-	text-decoration: underline !important;
+	text-decoration: none !important;
 }
 
 #cv_step_1 .item50{
