@@ -459,7 +459,7 @@ div.fancy-select ul.options li:hover {
 }
 
 .job_wrapper .tags-apply{
-	display: inline;
+	display: block;
 	margin: 0px;
 	padding-right:10px;
 	font-weight: bold;
