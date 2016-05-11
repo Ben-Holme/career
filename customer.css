@@ -420,7 +420,7 @@ div.fancy-select ul.options li:hover {
 .job_desc p{
 	font-family: inherit!important;
 	font-size: 18px !important;
-	line-height: 1.85em!important;
+	line-height: 1.55em!important;
 	margin-top: 1em!important;
 	color: #7f7f7c!important;
 	letter-spacing: inherit!important;
@@ -490,7 +490,7 @@ p.logo{
 .client_desc p {
 	font-size: 18px !important;
 	font-style: normal!important;
-	line-height: 1.3em;
+	line-height: 1.55em;
 }
 
 .client_desc p em {
