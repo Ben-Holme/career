@@ -561,6 +561,7 @@ span.IN-widget {
 	text-align: center;
 	color: #7f7f7c!important;
 	font-size:16px !important;
+	line-height: 1.55em;
 }
 
 #cv_step_1 .item50, #cv_step_2 .item50, #cv_step_1 .item100, #cv_step_2 .item100, #cv_step_2 .alert2 {
