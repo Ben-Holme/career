@@ -472,6 +472,7 @@ div.fancy-select ul.options li:hover {
 
 .job_wrapper .tags-apply strong {
 	font-weight: normal;
+	color: #7f7f7c;
 }
 
 .tags-apply:after {
@@ -1161,7 +1162,10 @@ form#upload p {
 
 @media screen and (max-width: 1024px) and (min-width: 769px){
 	h1 {
-		font-size: 54px;
+		font-size: 24px !important;
+	}
+	h2 {
+		font-size: 16px !important;
 	}
 	h3 {
 		font-size: 20px;
@@ -1205,6 +1209,14 @@ form#upload p {
 		width:100%;
 		padding-bottom:1rem;
 		display: inline-block;
+		font-size: 14px !important;
+	}
+
+	p em {
+		font-size: 14px !important;
+	}
+	p {
+		font-size: 14px !important;
 	}
 
 	.job_wrapper .tags-apply:after{
