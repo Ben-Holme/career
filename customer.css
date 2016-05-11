@@ -581,6 +581,9 @@ span.IN-widget {
 #cv .item100 .FileUpLoad-color, #cv .alert2 .FileUpLoad-color {
 	color:#ee4a56 !important;
 }
+#cv .item100 .FileUpLoad-color:hover, #cv .alert2 .FileUpLoad-color:hover {
+	color: #FF5A6E !important;
+}
 
 .alert2 {
 	transition:0.2s;
