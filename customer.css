@@ -521,6 +521,7 @@ p.name{
 }
 
 #social {
+	display: none;
 	margin-top: 2rem;
 }
 
