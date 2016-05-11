@@ -1196,6 +1196,8 @@ form#upload p {
 		width:100%;
 		padding-bottom:1rem;
 		display: inline-block;
+		margin-top: 10px;
+		font-size: 18px;
 	}
 
 	.job_wrapper .tags-apply:after{
