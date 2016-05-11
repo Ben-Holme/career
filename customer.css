@@ -478,7 +478,7 @@ div.fancy-select ul.options li:hover {
 
 #global_wrapper.job_wrapper, #global_wrapper.cv_wrapper{
 	margin: 0 auto;
-	max-width: 768px;
+	max-width: 650px;
 }
 
 .tagscontiner_job {
