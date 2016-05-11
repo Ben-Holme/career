@@ -36,6 +36,7 @@ h1 {
 
 h2 {
 	font-size: 28px;
+	line-height: 1em;
 }
 
 
@@ -465,6 +466,7 @@ div.fancy-select ul.options li:hover {
 	padding-right:10px;
 	font-weight: bold;
 	margin-top: 20px;
+	line-height: 1.2em;
 	font-size: 18px;
 }
 
