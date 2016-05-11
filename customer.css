@@ -1215,7 +1215,7 @@ form#upload p {
 	p em {
 		font-size: 14px !important;
 	}
-	p {
+	p, .job_desc p, .client_desc p {
 		font-size: 14px !important;
 	}
 
