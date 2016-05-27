@@ -16,11 +16,12 @@ a:hover {
 
 body {
 	letter-spacing: -0.02em;
-	font-size:12px;
-	color:#30302e;
-	font-family: helvetica;
+	font-size: 12px;
+	color: #30302e;
+	font-family: "helvetica", sans-serif;
 	-moz-osx-font-smoothing: grayscale;
-	padding: 0;
+	padding: 90px 0 0 0;
+	position: relative;
 
 }
 
@@ -46,7 +47,7 @@ h2 {
 
 .welcome_text {
 	width:100%;
-	margin:32px auto;
+	margin: 0 auto 32px auto;
 	text-align: center;
 	font-size:16px;
 	line-height: 22px;
@@ -764,10 +765,42 @@ span.IN-widget {
 	opacity: 1;
 }
 
+.goBack {
+	position: absolute;
+	left:0;
+	top: 60px;
+	color: #30302e;
+}
 
+.goBack:hover {
+	color: #EE4A56;
+}
+
+.goBack input {
+	border:none;
+	background:none;
+	padding:0;
+	padding-left:12px;
+	margin: 0 !important;
+	color: inherit;
+}
+
+.goBack input:hover {
+	color: inherit !important;
+	background-color: transparent !important;
+}
+
+.goBack:before {
+	font-family: FontAwesome;
+	content: "\f104";
+	font-size:18px;
+	font-weight: bolder;
+	position: absolute;
+	top:0;
+}
 
 .job_wrapper input[type="button"] {
-	display:none;
+	display:block;
 }
 
 #storedJobs li.item, #storedRoles li.item{
