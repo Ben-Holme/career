@@ -433,6 +433,7 @@ div.fancy-select ul.options li:hover {
 .job_desc ul li, .job_desc ol li{
 	line-height: 1.85em!important;
 	color: #7f7f7c !important;
+	font-size: 18px;
 }
 
 .job_desc h2{
@@ -1274,7 +1275,11 @@ form#upload p {
 		line-height: 1.55em;
 	}
 
-	.job_wrapper .tags-apply:after{
+	.job_desc ul li, .job_desc ol li {
+		font-size: 14px;
+	}
+
+		.job_wrapper .tags-apply:after{
 		content:'';
 	}
 
